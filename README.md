@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @wr1pg
-currently learning java
+
 - Discord: wr1pg#4768
 - Email: alexzyx2018@gmail.com
 
